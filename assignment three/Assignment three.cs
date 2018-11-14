@@ -25,8 +25,7 @@ namespace assignmentThree1
 
         private void button2_MouseClick(object sender, MouseEventArgs e)
         {
-            new StudentsPreformaceForm().Show();
-            this.Hide();
+           
         }
 
        
